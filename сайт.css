@@ -1,0 +1,38 @@
+body{
+    background-image: url("http://rusactors.ru/wallpapers/tsoi/viktor_tsoi_photo_20.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 50px;background-attachment: fixed;
+}
+h1{
+    color: white;font-size: 50px;margin-left: 250px;font-family: Arial;
+}
+a{
+    color: gold; font-weight: bold; font-size: 32px;text-decoration: none; padding: 50px;
+}
+section{
+    text-align: justify;
+}
+img{
+    border: solid white 2px;padding: 10px; border-radius: 20px;margin-top: 50px;
+}
+h2{
+  color: white;font-size: 32px;text-align: center;font-family: Arial;
+}
+div{
+ background-color:white; opacity: 0.5;
+    border: white 2px;border-radius: 30px; margin-bottom: 20px;
+}
+p{
+    padding-left: 10px; color: black;font-family: Arial;font-weight: bold;
+}
+#f {float: left;
+    width: 625px; height:800px;padding-right: 20px;margin-top: 10px}
+#h {float: right;
+    width: 650px; height:800px;padding-right: 20px; margin-top:10px}
+h3{
+ color: white;font-size: 32px;text-align: center;font-family: Arial;margin-bottom: 20px;
+}
+footer{
+
+}
